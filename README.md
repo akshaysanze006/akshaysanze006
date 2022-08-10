@@ -1,8 +1,8 @@
-### Hi there 👋
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm AKSHAY C P</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F4e%2F7a%2F2a%2F4e7a2a1a90115e9b571d28fc32754e9e.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F17451517295805529%2F&tbnid=MRHTRyVYIoPkjM&vet=12ahUKEwjhs-Xty7z5AhWqgWMGHROUBYIQxiAoA3oECAAQLw..i&docid=zMFiuKQatx68fM&w=540&h=309&itg=1&q=hacking%20gif%20image&ved=2ahUKEwjhs-Xty7z5AhWqgWMGHROUBYIQxiAoA3oECAAQLw">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysanze006&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysanze006" /> </p>
 

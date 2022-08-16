@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML Node JS**
 
-- 📫 How to reach me **akshaycp2001@ggmail.com**
+- 📫 How to reach me **akshaycp2001@gmail.com**
 
 - ⚡ Fun fact **I think I am Learning**
 

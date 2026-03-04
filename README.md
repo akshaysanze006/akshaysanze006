@@ -70,5 +70,3 @@
 
 ---
 
-🔥 **Want to Collaborate?**  
-If you’re interested in **Cybersecurity, Ethical Hacking, or Open Source Security Projects**, let’s connect and **secure the digital world together!** 🛡️  

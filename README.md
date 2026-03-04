@@ -67,6 +67,3 @@
 
 ### 🎯 Fun Fact  
 > _"There are two types of companies: those who have been hacked and those who don’t know they have been hacked yet!"_ 🚀  
-
----
-
